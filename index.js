@@ -50,7 +50,7 @@ const [,,,,,indg,] = colors
 // Objects
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-const {name, color, song, job, partner} = k_muppet 
+const {name, color, song, job, partner} = k_muppet
 
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
