@@ -34,7 +34,7 @@ const [moo, neigh, baa, oink, cluck] = farmAnimals
 const [Bessie,,Dolly, Babe, Little] = farmAnimals
 
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
-const [black_and_white, black, pink,] = 
+const [black_and_white, black, pink,] =
 
 // Arrays
 
